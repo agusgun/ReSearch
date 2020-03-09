@@ -125,3 +125,4 @@ dmypy.json
 
 # Custom gitignore
 .vscode/
+_data/
